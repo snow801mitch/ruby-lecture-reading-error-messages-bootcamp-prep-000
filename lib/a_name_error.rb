@@ -1,3 +1,3 @@
-var "hello world" {
+var "hello world"
   expect.(hello world)
-}
+
