@@ -1,2 +1,2 @@
-var "hello world"
+puts "hello world"
   expect.("hello world")
