@@ -1,3 +1,3 @@
-"hello world"
+var = "hello world"
 
-expect(hello_world)
+return(hello_world)
