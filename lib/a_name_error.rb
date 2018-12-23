@@ -1,2 +1,2 @@
 var "hello world"
-  expect.(hello world)
+  expect.("hello world")
