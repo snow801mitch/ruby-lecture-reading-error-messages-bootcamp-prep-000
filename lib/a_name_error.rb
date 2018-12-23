@@ -1,2 +1,3 @@
-puts "hello world"
-  expect.("hello world")
+"hello world"
+
+"hello world"
