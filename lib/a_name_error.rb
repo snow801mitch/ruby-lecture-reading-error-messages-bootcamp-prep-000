@@ -1,3 +1,3 @@
 var = "hello world"
 
-return(hello_world)
+"hello world"
